@@ -1,4 +1,4 @@
-# Libft
+# Libft 📚
 
 Este é o  meu projeto inicial como estudante na 42SãoPaulo, nele eu recodifiquei um pequeno conjunto de funções da biblioteca padrão C e algumas outras funções utilitárias que utilizarei durante todo o curso.
 
@@ -15,5 +15,5 @@ Ao longo da formação na 42SP, nós não utilizamos a maioria das funções pad
 
 Por fim, ao longo do projeto desenvolvi uma planilha descrevendo qual a funcionalidade de cada uma das funções, disponibilizei meu código comentado e adicionei links de referência utilizados durante o meu processo de aprendizado:
 
-<a href="https://biancasantanas.notion.site/Libft-a0dbd214cef148d6a2eb757b3de70598" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">Veja aqui! :) </a>
+<a href="https://biancasantanas.notion.site/Libft-a0dbd214cef148d6a2eb757b3de70598" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href); return false;">Veja aqui! ☺️ </a>
 
